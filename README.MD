@@ -3,6 +3,7 @@ tailwind-lang-variants allows you to scaffold and use tailwind variants/modifier
 ## Installation
 
 `npm install tailwind-lang-variants`
+
 `yarn add tailwind-lang-variants`
 
 ## Usage
