@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-lang-variants",
+  "version": "0.0.1",
+  "description": "A tailwind utility for generating language variants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasraghoreyshi/tailwind-lang-variants.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Kasra Ghoreyshi",
+    "email": "kasra.ghoreyshi84@gmail.com"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "tailwindcss": "^3.1.4"
+  }
+}
