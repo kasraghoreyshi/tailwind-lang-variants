@@ -11,7 +11,6 @@ tailwind-lang-variants allows you to scaffold and use tailwind variants/modifier
 tailwind.config.js
 
 ```js
-const colors = require("tailwindcss/colors");
 const scaffoldLangVariants = require("tailwind-lang-variants");
 /** @type {import('tailwindcss').Config} */
 module.exports = {
